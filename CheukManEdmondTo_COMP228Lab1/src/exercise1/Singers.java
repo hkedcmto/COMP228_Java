@@ -1,3 +1,5 @@
+package exercise1;
+
 import java.util.Date;
 
 //Create a class named Singers
