@@ -3,6 +3,7 @@ package exercise1;
 import java.util.Date;
 
 public class Main {
+
     public static void main(String[] args) {
 
         //	Create the driver class that would create 1 Singer (singer1) object with the help of the no argument constructor
