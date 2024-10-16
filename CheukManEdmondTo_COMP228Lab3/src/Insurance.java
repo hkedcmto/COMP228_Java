@@ -2,6 +2,11 @@ public abstract class Insurance {
     String typeOfInsurance;
     double monthlyCost;
 
+    public Insurance(String typeOfInsurance, double monthlyCost) {
+        this.typeOfInsurance = typeOfInsurance;
+        this.monthlyCost = monthlyCost;
+    }
+
     public String getTypeOfInsurance() {
         return typeOfInsurance;
     }
